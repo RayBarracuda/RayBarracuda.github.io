@@ -38,9 +38,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ###### Food assessment
-
-1. Чудо маркет
-  1. Пирожки с капустой
-    1. 5
-  1. Пирожки с картошкой и грибами
-    1. 5.5
+Место | Продукт | оценка
+------|---------|-------
+Чудо маркет | Пирожки с капустой | 5
+Чудо маркет | Пирожки с картошкой и грибами| 5.5
+Чудо маркет | Роллини с грибами | 8
