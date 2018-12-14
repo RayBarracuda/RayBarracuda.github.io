@@ -39,8 +39,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ###### Food assessment
 
-* Чудо маркет
-  * Пирожки с капустой
-    * 5
-  * Пирожки с картошкой и грибами
-    * 5.5
+1. Чудо маркет
+  1. Пирожки с капустой
+    1. 5
+  1. Пирожки с картошкой и грибами
+    1. 5.5
